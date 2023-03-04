@@ -1,1 +1,1 @@
-Link: https://cleito590.github.io/calculadora/
+Click: https://cleito590.github.io/calculadora/
